@@ -6,7 +6,6 @@ Developed an python-based innovative Smart Waste Management Robot. The Project a
 - [Description](#description)
 - [Features](#features)
 - [Usage](#usage)
-- [Dependencies](#dependencies)
 
 ## Description
 
